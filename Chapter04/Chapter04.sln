@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01_RotatedTriangle_Matrix4", "_01_RotatedTriangle_Matrix4\_01_RotatedTriangle_Matrix4.csproj", "{37FDB866-880D-4541-9011-152845C66FA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02_RotatedTranslatedTriangle", "_02_RotatedTranslatedTriangle\_02_RotatedTranslatedTriangle.csproj", "{444918C3-5DC2-4C20-B15E-20B60BD76F5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_TranslatedRotatedTriangle", "_03_TranslatedRotatedTriangle\_03_TranslatedRotatedTriangle.csproj", "{3BB6C204-703C-4919-8626-F8057A7CD553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04_RotatingTriangle", "_04_RotatingTriangle\_04_RotatingTriangle.csproj", "{90F13E6A-DE11-4EBE-93DB-8A517FDC816E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_05_RotatingTranslatedTriangle", "_05_RotatingTranslatedTriangle\_05_RotatingTranslatedTriangle.csproj", "{A841A352-03E6-44ED-8D98-F02C2660A982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_06_RotatingTriangle_withButtons_WinForms", "_06_RotatingTriangle_withButtons_WinForms\_06_RotatingTriangle_withButtons_WinForms.csproj", "{F63F586B-7895-4CF3-ADBD-7452883A8F55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_07_RotatingTriangle_withButtons_WPF", "_07_RotatingTriangle_withButtons_WPF\_07_RotatingTriangle_withButtons_WPF.csproj", "{82186A36-F657-4D1A-B39C-D60DFC9617A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37FDB866-880D-4541-9011-152845C66FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FDB866-880D-4541-9011-152845C66FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FDB866-880D-4541-9011-152845C66FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FDB866-880D-4541-9011-152845C66FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{444918C3-5DC2-4C20-B15E-20B60BD76F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444918C3-5DC2-4C20-B15E-20B60BD76F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444918C3-5DC2-4C20-B15E-20B60BD76F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444918C3-5DC2-4C20-B15E-20B60BD76F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB6C204-703C-4919-8626-F8057A7CD553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB6C204-703C-4919-8626-F8057A7CD553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB6C204-703C-4919-8626-F8057A7CD553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB6C204-703C-4919-8626-F8057A7CD553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F13E6A-DE11-4EBE-93DB-8A517FDC816E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F13E6A-DE11-4EBE-93DB-8A517FDC816E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F13E6A-DE11-4EBE-93DB-8A517FDC816E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F13E6A-DE11-4EBE-93DB-8A517FDC816E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A841A352-03E6-44ED-8D98-F02C2660A982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A841A352-03E6-44ED-8D98-F02C2660A982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A841A352-03E6-44ED-8D98-F02C2660A982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A841A352-03E6-44ED-8D98-F02C2660A982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F63F586B-7895-4CF3-ADBD-7452883A8F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F63F586B-7895-4CF3-ADBD-7452883A8F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F63F586B-7895-4CF3-ADBD-7452883A8F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F63F586B-7895-4CF3-ADBD-7452883A8F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82186A36-F657-4D1A-B39C-D60DFC9617A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82186A36-F657-4D1A-B39C-D60DFC9617A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82186A36-F657-4D1A-B39C-D60DFC9617A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82186A36-F657-4D1A-B39C-D60DFC9617A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
