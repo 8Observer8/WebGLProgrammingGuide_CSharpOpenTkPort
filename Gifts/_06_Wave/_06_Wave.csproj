@@ -33,14 +33,14 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="OpenTK">
-      <HintPath>..\..\Packages\OpenTK\OpenTK.dll</HintPath>
+      <HintPath>..\..\Libs\OpenTK\OpenTK.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Xml" />
     <Reference Include="Utils">
-      <HintPath>..\..\Packages\Utils\Utils.dll</HintPath>
+      <HintPath>..\..\Libs\Utils\Utils.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
