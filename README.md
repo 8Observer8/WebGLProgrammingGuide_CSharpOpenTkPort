@@ -1,9 +1,6 @@
 # WebGLProgrammingGuide_CSharpOpenTkPort
 Port to OpenTK from this book: https://sites.google.com/site/webglbook/
 
-# WebGLProgrammingGuide_CSharpOpenTkPort
-Port to OpenTK from this book: https://sites.google.com/site/webglbook/
-
 Chapter 02. Your First Step with WebGL<br>
 ch02/HelloCanvas: https://jsfiddle.net/8Observer8/2gky294r/<br>
 ch02/HelloPoint1: https://jsfiddle.net/8Observer8/cc72u1u5/<br>
